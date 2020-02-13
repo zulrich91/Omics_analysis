@@ -9,3 +9,6 @@ URLs that could be interesting for Omics Analysis.
 * [String-db: Pathway visualisation of Genes and proteins](https://string-db.org/)
 * [UCSC: Genome browser](https://genome.ucsc.edu/)
 * [Integrative Genome Viewer](https://igv.org/app/)
+* [CDISC](https://www.cdisc.org/)
+* [CIM](https://docs.splunk.com/Documentation/CIM/4.14.0/User/Overview)
+* [HL7](https://www.hl7.org/)
